@@ -1,2 +1,3 @@
 # hello-world
-first repository
+first repository<br>
+ちょっと日本語で書いてみるのだ
